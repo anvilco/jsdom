@@ -1,6 +1,9 @@
 {
-  "name": "@anvilco/jsdom",
+  "name": "@anvilco-pkg/jsdom",
   "version": "20.0.1",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "description": "A JavaScript implementation of many web standards",
   "keywords": [
     "dom",
